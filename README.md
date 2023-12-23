@@ -1,5 +1,5 @@
 # Author
- Ce projet a été réalisé par Emmanuel Badibanga, étudiant en troisième année d'informatique o l'université de Kinshasa. Il s'inscrit dans le cadre d'un exercice pratique du cours de Cryptographie et Sécurité Informatique
+ Ce projet a été réalisé par Emmanuel Badibanga, étudiant en troisième année d'informatique à l'université de Kinshasa. Il s'inscrit dans le cadre d'un exercice pratique du cours de Cryptographie et Sécurité Informatique
  
 # Chiffrement de Feistel
 
